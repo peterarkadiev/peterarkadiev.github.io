@@ -5,7 +5,7 @@ toc: true
 ---
 
 Four seminars in INALCO, Paris. 
-[Description, venue, time] (https://en.labex-efl.fr/post/international-chair-2023-peter-arkadiev-johannes-gutenberg-university-allemagne)
+[Description, venue, time](https://en.labex-efl.fr/post/international-chair-2023-peter-arkadiev-johannes-gutenberg-university-allemagne)
 
 <!--more-->
 
