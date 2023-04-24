@@ -11,9 +11,9 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:alpgurev@gmail.com
-  - icon: twitter
+  - icon: google
     iconPack: fab
-    url: https://example.com/
+    url: https://scholar.google.com/citations?user=5EFn1u8AAAAJ&hl=en
   - icon: orcid
     iconPack: fab
     url: https://orcid.org/0000-0002-4503-2634
