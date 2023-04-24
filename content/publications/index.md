@@ -1,14 +1,7 @@
 ---
-title: Chapter 1
-description: Chapter 1 of example doc
+title: Publications
 toc: true
-authors:
-tags:
-categories:
-series:
-date: '2020-10-16'
-lastmod: '2020-10-16'
-draft: false
+
 ---
 
 This is chapter 1 of example doc.
@@ -16,6 +9,8 @@ This is chapter 1 of example doc.
 <!--more-->
 
 ## Proin pretium lorem a justo euismod condimentum
+
+[Download file](panova_cv_2022_eng.pdf)
 
 Donec tortor nunc, feugiat non porttitor tristique, dictum vitae nibh. Integer vel mollis ante. Cras sed elementum nulla, vel placerat lectus. Cras ligula diam, blandit sed vehicula eu, aliquet vel leo. Curabitur sagittis nunc vel nulla tempor sagittis. Phasellus elementum mi malesuada libero vehicula sodales eget id augue. Duis consequat egestas tortor, vitae volutpat nibh gravida ultricies. Morbi maximus sed felis posuere luctus. Cras ultrices condimentum purus, eget iaculis nulla. Cras vulputate est in justo sodales varius. Maecenas auctor velit vel urna sodales, et sodales enim maximus. Proin tempus, metus sit amet ultrices luctus, justo eros finibus nibh, a volutpat ipsum lectus in leo. Pellentesque at dictum metus.
 

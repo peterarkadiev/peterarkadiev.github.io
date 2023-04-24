@@ -1,10 +1,20 @@
 main:
-  - name: About
-    url: '#about'
+#  - name: About
+#    url: '#about'
+#    weight: 1
+  - name: Teaching
+    url: /teaching/
     weight: 1
-  - name: Posts
-    url: /posts/
+  - name: Publications
+    url: /publications/
     weight: 2
-  - name: Docs
-    url: /docs/
+  - name: CV
+    url: /Panova_CV_2022_eng.pdf
     weight: 3
+
+  # - name: Posts
+  #   url: /posts/
+  #   weight: 2
+  # - name: Docs
+  #   url: /docs/
+  #   weight: 3
