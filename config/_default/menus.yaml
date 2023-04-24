@@ -11,7 +11,7 @@ main:
     url: /publications/
     weight: 2
   - name: CV
-    url: /Panova_CV_2022_eng.pdf
+    url: "/files/arkadiev_cv_full.pdf"
     weight: 1
   - name: Talks
     url: /talks/
