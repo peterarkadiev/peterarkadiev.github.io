@@ -2,7 +2,7 @@
 title: Peter Arkadiev
 draft: false
 role: Researcher
-avatar: images/Peter-Arkadiev-2.jpg
+avatar: avatar.jpg
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
   name: Johannes Gutenberg-Universität Mainz
