@@ -1,16 +1,16 @@
 ---
 title: Peter Arkadiev
 draft: false
-role: PhD Hab., researcher at the Department of English and Linguistics of the Johannes Gutenberg-Universität Mainz
+role: PhD Hab., researcher at the Department of English and Linguistics of the Johannes-Gutenberg-Universität Mainz
 avatar: avatar.jpg
 bio: 
 <!-- organization:
-  name: Johannes Gutenberg-Universität Mainz
+  name: Johannes-Gutenberg-Universität Mainz
   url: https://www.uni-mainz.de/ -->
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:alpgurev@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://example.com/
@@ -46,6 +46,10 @@ widget:
 ## About me
 
 I am a linguist interested in morphology, syntax, linguistic typology, Baltic languages, Northwest Caucasian languages.
+
+## My name
+
+In my native language, Russian, my name is Пётр Михайлович Аркадьев (officially transliterated as Petr Arkadyev). However, in my non-Russian life I use the English or German version of my name, which can be pronounced as [´pi.tə(r) ɑr´.kɑ:.djɛv]. Close friends and Russian-speaking colleagues also call me Petya.
 
 ## Biography 
 
