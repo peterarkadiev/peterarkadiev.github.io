@@ -26,4 +26,4 @@ Seminar 3: Polysynthetic morphology in the Northwest Caucasian languages [pdf](A
 
 Seminar 4: Morphology-syntax interface in polysynthetic languages [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture4.pdf)
 
-References [pdf](refs_polysynthesis.pdf)
+References [pdf](Labex_refs.pdf)
