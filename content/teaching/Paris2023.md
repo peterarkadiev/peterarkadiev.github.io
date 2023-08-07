@@ -5,7 +5,8 @@ date: '2023-04-01'
 ---
 
 Four seminars in INALCO, Paris. 
-[Description, venue, time](https://en.labex-efl.fr/post/international-chair-2023-peter-arkadiev-johannes-gutenberg-university-allemagne)
+
+[Seminar descriptions and presentations](https://en.labex-efl.fr/post/international-chair-2023-peter-arkadiev-johannes-gutenberg-university-allemagne)
 
 <!--more-->
 
@@ -16,3 +17,5 @@ The course will deal with the notions of “polysynthesis” and “polysyntheti
 
 
 ## Materials
+
+[Available here](https://www.labex-efl.fr/post/chaire-internationale-2023-peter-arkadiev-universit%C3%A9-johannes-gutenberg-allemagne)
