@@ -18,4 +18,12 @@ The course will deal with the notions of “polysynthesis” and “polysyntheti
 
 ## Materials
 
-[Available here](https://www.labex-efl.fr/post/chaire-internationale-2023-peter-arkadiev-universit%C3%A9-johannes-gutenberg-allemagne)
+Seminar 1: What is polysynthesis? [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture1.pdf)
+
+Seminar 2: Internal variation and fringes of polysynthesis [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture2.pdf)
+
+Seminar 3: Polysynthetic morphology in the Northwest Caucasian languages [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture3.pdf)
+
+Seminar 4: Morphology-syntax interface in polysynthetic languages [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture4.pdf)
+
+References [pdf](refs_polysynthesis.pdf)
