@@ -14,6 +14,9 @@ Northwest Caucasian is a language family comprising West Circassian, Kabardian, 
 ## Materials
 
 Topic 1: Introduction and overview [pdf](NWC_Zurich2022_Seminar1.pdf)
+
 Topic 2: Nominal morphology [pdf](NWC_Zurich2022_seminar2.pdf)
+
 Topic 3: Overview of polysynthetic features [pdf](NWC_Zurich2022_seminar3.pdf); references [pdf](refs_polysynthesis.pdf)
+
 Topic 4: Grammatical relations and alignment(s) [pdf](NWV_Zurich2022_seminar4.pdf)
