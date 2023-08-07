@@ -45,7 +45,7 @@ widget:
 
 ## About me
 
-I am a linguist interested in morphology, syntax, linguistic typology, Baltic languages, Northwest Caucasian languages.
+I am a linguist primarily interested in morphology, syntax, linguistic typology, language contact, Baltic and Northwest Caucasian languages.
 
 ## My name
 
@@ -57,4 +57,4 @@ I was born in Moscow, Russia, in 1982. I studied linguistics at the Russian Stat
 
 In 2022, being strongly opposed to the Russian invasion of the Ukraine and Putin’s regime in general, I quit my research and teaching positions in Moscow and emigrated to Europe. Since then, I worked at the University of Zürich (July–December 2022) and Johannes Gutenberg-University of Mainz (January–October 2023) as an externally-financed researcher. From November 2023 till August 2024, I shall work at the Freiburg Institute for Advanced Studies.
 
-I am married to Anastasia Panova, who is a linguist working at the University of Stockholm.
+I am married to [Anastasia Panova](https://www.su.se/english/profiles/anpa7559-1.623680), who is a linguist working at the University of Stockholm.
