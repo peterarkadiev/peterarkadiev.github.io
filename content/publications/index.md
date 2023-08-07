@@ -14,7 +14,7 @@ Most of my publications as well as unpublished manuscripts can be downloaded fro
 
 **Arkadiev, Peter**. *Ареальная типология префиксального перфектива (на материале языков Европы и Кавказа)* [Areal Typology of Prefixal Perfectivisation (on the material of the languages of Europe and the Caucasus)]. Moscow: LRC Publishing, 2015. —  352 p. [pdf](Arkadiev_2015_Areal'naja_tipologija_prefiksalnogo_perfekitva.pdf)
 
-## Selected recent papers##
+## Selected recent papers ##
 
 **Arkadiev, Peter** Polysynthesis: Lessons from Northwest Caucasian languages. In: Jenny Audring, Katerina T. Frantzi, Nikos Koutsoukos, Giorgos Markopoulos & Kalomira Nikolou (eds.), *Comparing Typologies. Online Proceedings of the 13th Mediterranean Morphology Meeting (MMM13), Rhodes (Greece), May 19–22, 2022*. Patras: University of Patras, 2023, 1–25. https://doi.org/10.26220/mmm.4402 [pdf](Arkadiev2023_polysynthesis_MMM_pub.pdf)
 
