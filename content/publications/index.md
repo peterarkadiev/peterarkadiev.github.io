@@ -16,6 +16,8 @@ Most of my publications as well as unpublished manuscripts can be downloaded fro
 
 ## Selected recent papers ##
 
+**Arkadiev, Peter**. The development of inflectional features. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. Revised version, August 16, 2023. [pdf]()
+
 **Arkadiev, Peter**. Unmarked resultatives in Abaza and passive lability. To appear in the volume in memory of Alexandra Vydrina. 2023. [pdf](Arkadiev2023_Abaza_resultative_Sogolon.pdf)
 
 **Arkadiev, Peter, Yury Lander & Irina Bagirokova**. Applicative constructions in the Northwest Caucasian languages. To appear in Denis Creissels & Fernando Zúñiga (eds.), *Applicative Constructions. A Comparative Handbook*. [pdf](Arkadiev-etal2024_NWCApplicatives.pdf)
