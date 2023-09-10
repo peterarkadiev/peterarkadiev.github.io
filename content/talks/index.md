@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter & Evgeniya Klyagina**. The discourse basis of (non-)finiteness in Abaza. Presentation at the 56th annual meeting of the Societas Linguistica Europaea, Athens, 29 August — 1 September 2023. [pdf](ArkadievKlyagina2023_AbazaFinDisc)
+
 **Arkadiev, Peter**. Unmarked resultatives in Abaza (Northwest Caucasian) and the typology of passive lability. Invited talk at the Linguistic Colloquium of the University of Cologne, 15 June 2023. [pdf](Arkadiev2023_AbResPassLab_Cologne.pdf)
 
 **Arkadiev, Peter**. Are single-term case systems possible? Invited talk at the Linguistic Colloquium of the Johannes-Gutenberg University, Mainz, 17 April 2023. [pdf](Arkadiev2023_monocasual_Mainz.pdf)
