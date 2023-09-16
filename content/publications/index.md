@@ -24,7 +24,7 @@ Most of my publications as well as unpublished manuscripts can be downloaded fro
 
 **Arkadiev, Peter**. Abaza. A grammatical sketch. Submitted to Yuri Koryakov, Yury Lander & Timur Maisak (eds.), *The Caucasian Languages. An International Handbook*. De Gruyter Mouton. Revised version of June 2020. [pdf](Arkadiev2020_Abaza_sketch.pdf)
 
-**Arkadiev, Peter**. Unmarked resultatives in Abaza and passive lability. In: Nina Sumbatova, Ivan Kapitonov, Maria Khachaturyan, Sofia Ocklskaya & Samira Verhees (eds.), [Songs and Trees: Papers in Memory of Sasha Vydrina](https://sashavydrina.tilda.ws/inmemoriam). St. Petersburg: Institute of Linguistic Studies of the Russian Academy of Sciences, 2023, pp. 485–505. [pdf](Arkadiev2023_AbazaResSogolon)
+**Arkadiev, Peter**. Unmarked resultatives in Abaza and passive lability. In: Nina Sumbatova, Ivan Kapitonov, Maria Khachaturyan, Sofia Oskolskaya & Samira Verhees (eds.), [Songs and Trees: Papers in Memory of Sasha Vydrina](https://sashavydrina.tilda.ws/inmemoriam). St. Petersburg: Institute of Linguistic Studies of the Russian Academy of Sciences, 2023, pp. 485–505. [pdf](Arkadiev2023_AbazaResSogolon)
 
 **Arkadiev, Peter**. Polysynthesis: Lessons from Northwest Caucasian languages. In: Jenny Audring, Katerina T. Frantzi, Nikos Koutsoukos, Giorgos Markopoulos & Kalomira Nikolou (eds.), *Comparing Typologies. Online Proceedings of the 13th Mediterranean Morphology Meeting (MMM13), Rhodes (Greece), May 19–22, 2022*. Patras: University of Patras, 2023, 1–25. https://doi.org/10.26220/mmm.4402 [pdf](Arkadiev2023_polysynthesis_MMM_pub.pdf)
 
