@@ -18,13 +18,13 @@ Most of my publications as well as unpublished manuscripts can be downloaded fro
 
 **Arkadiev, Peter**. The development of inflectional features. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. Revised version, August 16, 2023. [pdf]()
 
-**Arkadiev, Peter**. Unmarked resultatives in Abaza and passive lability. To appear in the volume in memory of Alexandra Vydrina. 2023. [pdf](Arkadiev2023_Abaza_resultative_Sogolon.pdf)
-
 **Arkadiev, Peter, Yury Lander & Irina Bagirokova**. Applicative constructions in the Northwest Caucasian languages. To appear in Denis Creissels & Fernando Zúñiga (eds.), *Applicative Constructions. A Comparative Handbook*. [pdf](Arkadiev-etal2024_NWCApplicatives.pdf)
 
 **Arkadiev, Peter & Kirill Kozhanov**. Borrowing of morphology. With a case study of Baltic and Slavic verbal prefixes. To appear in: Peter Ackema, Sabrina Bendjaballah, Eulàlia Bonet & Antonio Fábregas (eds.), *The Wiley Blackwell Companion to Morphology*. [pdf](ArkadievKozhanov2023_MorphBorWiley(proofs).pdf)
 
 **Arkadiev, Peter**. Abaza. A grammatical sketch. Submitted to Yuri Koryakov, Yury Lander & Timur Maisak (eds.), *The Caucasian Languages. An International Handbook*. De Gruyter Mouton. Revised version of June 2020. [pdf](Arkadiev2020_Abaza_sketch.pdf)
+
+**Arkadiev, Peter**. Unmarked resultatives in Abaza and passive lability. In: Nina Sumbatova, Ivan Kapitonov, Maria Khachaturyan, Sofia Ocklskaya & Samira Verhees (eds.), [Songs and Trees: Papers in Memory of Sasha Vydrina](https://sashavydrina.tilda.ws/inmemoriam). St. Petersburg: Institute of Linguistic Studies of the Russian Academy of Sciences, 2023, pp. 485–505. [pdf](Arkadiev2023_AbazaResSogolon)
 
 **Arkadiev, Peter**. Polysynthesis: Lessons from Northwest Caucasian languages. In: Jenny Audring, Katerina T. Frantzi, Nikos Koutsoukos, Giorgos Markopoulos & Kalomira Nikolou (eds.), *Comparing Typologies. Online Proceedings of the 13th Mediterranean Morphology Meeting (MMM13), Rhodes (Greece), May 19–22, 2022*. Patras: University of Patras, 2023, 1–25. https://doi.org/10.26220/mmm.4402 [pdf](Arkadiev2023_polysynthesis_MMM_pub.pdf)
 
