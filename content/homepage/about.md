@@ -1,12 +1,12 @@
 ---
 title: Peter Arkadiev
 draft: false
-role: PhD Hab., External Senior Fellow (Marie S. Curie FCFP), FRIAS (Freiburg Institute for Advanced Studies), Albert-Ludwigs-Universität Freiburg
+role: PhD Hab., External Senior Fellow (Marie S. Curie FCFP)
 avatar: avatar.jpg
 bio: 
-<!-- organization:
+organization:
   name: FRIAS (Freiburg Institute for Advanced Studies), Albert-Ludwigs-Universität Freiburg
-  url: https://www.frias.uni-freiburg.de/en/people/fellows/current-fellows/arkadiev-peter -->
+  url: https://www.frias.uni-freiburg.de/en/people/fellows/current-fellows/arkadiev-peter
 social:
   - icon: envelope
     iconPack: fas
