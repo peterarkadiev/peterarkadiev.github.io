@@ -6,9 +6,9 @@ date: '2023-04-01'
 
 Four seminars in INALCO, Paris, May 2023. 
 
-[Seminar descriptions and presentations](https://en.labex-efl.fr/post/international-chair-2023-peter-arkadiev-johannes-gutenberg-university-allemagne)
-
 <!--more-->
+
+[Seminar descriptions and presentations](https://en.labex-efl.fr/post/international-chair-2023-peter-arkadiev-johannes-gutenberg-university-allemagne)
 
 ## General Abstract
 
