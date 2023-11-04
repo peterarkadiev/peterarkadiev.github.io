@@ -4,7 +4,7 @@ toc: true
 date: '2023-11-04'
 ---
 
-My FRIAS project (2023-2024); click to see more.
+My FRIAS project (2023-2024).
 
 <!--more-->
 
