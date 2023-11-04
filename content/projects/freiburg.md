@@ -8,7 +8,7 @@ My FRIAS project (2023-2024).
 
 <!--more-->
 
-This is the research project on wide-scale morphosyntactic typology which I had started back in 2009 (see e.g. [this talk](https://peterarkadiev.github.io/talks/Arkadiev2010_case_n_headmarking_leipzig.pdf)) and pursued intermittently till 2012, after which I had to leave it aside for the lack of time. My fellowship at the Freiburg Institute for Advanced Studies November 2023 - August 2024) allows me to resume this work.
+This is the research project on wide-scale morphosyntactic typology which I had started back in 2009 (see e.g. [this talk](https://peterarkadiev.github.io/talks/Arkadiev2010_case_n_headmarking_leipzig.pdf)) and pursued intermittently till 2012, after which I had to leave it aside for the lack of time. My fellowship at the Freiburg Institute for Advanced Studies (November 2023 - August 2024) allows me to resume this work.
 
 ## General Abstract
 
