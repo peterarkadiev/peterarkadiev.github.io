@@ -8,6 +8,10 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Case in head-marking languages: towards a comprehensive typology. Invited talk at the Hermann Paul Colloquium, Albert-Ludwigs-University of Freiburg, 15 December 2023. [pdf](Arkadiev2023_case-n-headmarking-Freiburg)
+
+**Arkadiev, Peter**. A preliminary typology of morphologically uncoded passives. Invited talk at the workshop "The Word, Alignment, Valency: In honour of Fernando Zúñiga", Bern, 2 December 2023. [pdf](Arkadiev2023_PassLab_Bern.pdf)
+
 **Arkadiev, Peter & Evgeniya Klyagina**. The discourse basis of (non-)finiteness in Abaza. Presentation at the 56th annual meeting of the Societas Linguistica Europaea, Athens, 29 August — 1 September 2023. [pdf](ArkadievKlyagina2023_AbazaFinDisc)
 
 **Arkadiev, Peter**. Unmarked resultatives in Abaza (Northwest Caucasian) and the typology of passive lability. Invited talk at the Linguistic Colloquium of the University of Cologne, 15 June 2023. [pdf](Arkadiev2023_AbResPassLab_Cologne.pdf)
