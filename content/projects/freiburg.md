@@ -18,4 +18,4 @@ The project aims at investigating cross-linguistic diversity in the domain of in
 
 ## Materials
 
-Under construction
+Presentation "Case in head-marking languages: towards a comprehensive typology". Invited talk at the Hermann Paul Colloquium, Albert-Ludwigs-University of Freiburg, 15 December 2023. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2023_case-n-headmarking-Freiburg.pdf)
