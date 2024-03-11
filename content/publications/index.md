@@ -20,7 +20,7 @@ Most of my publications as well as unpublished manuscripts can be downloaded fro
 
 **Arkadiev, Peter (submitted)**. Abaza. A grammatical sketch. Submitted to Yuri Koryakov, Yury Lander & Timur Maisak (eds.), *The Caucasian Languages. An International Handbook*. De Gruyter Mouton. Revised version of June 2020. [pdf](Arkadiev2020_Abaza_sketch.pdf)
 
-**Arkadiev, Peter, Yury Lander & Irina Bagirokova (forthcoming)**. Applicative constructions in the Northwest Caucasian languages. To appear in Denis Creissels & Fernando Zúñiga (eds.), *Applicative Constructions. A Comparative Handbook*. [pdf](Arkadiev-etal2024_NWCApplicatives.pdf)
+**Arkadiev, Peter, Yury Lander & Irina Bagirokova (2024)**. Applicative constructions in the Northwest Caucasian languages. In: Fernando Zúñiga & Denis Creissels (eds.), *Applicative Constructions in the World’s Languages*. (Comparative Handbooks in Linguistics 7.) Berlin, Boston: De Gruyter Mouton, 2024, pp. 869–912.  [pdf](Arkadiev-etal2024_NWCApplicatives.pdf)
 
 **Arkadiev, Peter & Anastasia Panova (2024)**. Independent pronouns in languages with pronominal affixes: Evidence from Abaza. In: Nikolay Korotaev & Nina Sumbatova (eds.), *Состав науки: Сборник статей к юбилею Веры Исааковны Подлесской* [*Corpus scientiae: Papers in honor of Vera I. Podlesskaya*]. Moscow: Buki Vedi, 2024, 30–58. [pdf](PanovaArkadiev2024_AbazaPronouns_FestVIP.pdf)
 
