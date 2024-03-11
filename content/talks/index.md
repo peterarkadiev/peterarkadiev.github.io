@@ -8,11 +8,11 @@ toc: true
 
 <!--more-->
 
-**Arkadiev, Peter**. Case in head-marking languages: towards a comprehensive typology. Invited talk at the Hermann Paul Colloquium, Albert-Ludwigs-University of Freiburg, 15 December 2023. [pdf](Arkadiev2023_case-n-headmarking-Freiburg)
+**Arkadiev, Peter**. Case in head-marking languages: towards a comprehensive typology. Invited talk at the Hermann Paul Colloquium, Albert-Ludwigs-University of Freiburg, 15 December 2023. [pdf](Arkadiev2023_case-n-headmarking-Freiburg.pdf)
 
 **Arkadiev, Peter**. A preliminary typology of morphologically uncoded passives. Invited talk at the workshop "The Word, Alignment, Valency: In honour of Fernando Zúñiga", Bern, 2 December 2023. [pdf](Arkadiev2023_PassLab_Bern.pdf)
 
-**Arkadiev, Peter & Evgeniya Klyagina**. The discourse basis of (non-)finiteness in Abaza. Presentation at the 56th annual meeting of the Societas Linguistica Europaea, Athens, 29 August — 1 September 2023. [pdf](ArkadievKlyagina2023_AbazaFinDisc)
+**Arkadiev, Peter & Evgeniya Klyagina**. The discourse basis of (non-)finiteness in Abaza. Presentation at the 56th annual meeting of the Societas Linguistica Europaea, Athens, 29 August — 1 September 2023. [pdf](ArkadievKlyagina2023_AbazaFinDisc.pdf)
 
 **Arkadiev, Peter**. Unmarked resultatives in Abaza (Northwest Caucasian) and the typology of passive lability. Invited talk at the Linguistic Colloquium of the University of Cologne, 15 June 2023. [pdf](Arkadiev2023_AbResPassLab_Cologne.pdf)
 
@@ -22,7 +22,7 @@ toc: true
 
 **Arkadiev, Peter**. Non-canonical noun incorporation and lexical affixation in Northwest Caucasian (with focus on Abaza). Invited talks at the Linguistics Colloquium of the University of Bern (9 November 2022) and at the seminar "Théories et données linguistiques", INALCO, Paris (18 November 2022). [pdf](Arkadiev2022_AbazaIncorp.pdf)
 
-**Arkadiev, Peter**. Non-canonical marking of subjects and objects in Baltic. Invited talk at the seminar of the Slavistics Department of the University of Zürich, 27 October 2022. [pdf](Arkadiev2022_BaltNonCanonCase_Zurich)
+**Arkadiev, Peter**. Non-canonical marking of subjects and objects in Baltic. Invited talk at the seminar of the Slavistics Department of the University of Zürich, 27 October 2022. [pdf](Arkadiev2022_BaltNonCanonCase_Zurich.pdf)
 
 **Arkadiev, Peter**. From derivation to inflection and back: Variation and change in the Abaza caritive morphology. Talk at the 20th International Morphology Meeting, Budapest, 1–4 September 2022. [pdf](Arkadiev2022_AbazaCaritiveIMM.pdf)
 
