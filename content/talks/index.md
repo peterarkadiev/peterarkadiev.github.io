@@ -7,6 +7,9 @@ toc: true
 ## Presentations/handouts of selected recent and not-so-recent talks and lectures
 
 <!--more-->
+**Arkadiev, Peter**. Getting to grips with “linguistic complexity” from a cross-linguistic perspective. Talk at the FRIAS Kolloquium, Freiburg Institute for Advanced Studies, 22 April 2024. [pdf](Arkadiev2024_complexity_FRIAS.pdf)
+
+**Arkadiev, Peter**. Applicative functions of Slavic verbal prefixes from a cross-linguistic perspective. Invited talk at the Verona Slavic Linguistics Webinar, online, 21 March 2024. [pdf](Arkadiev2024_ApplicSlavic_Verona.pdf)
 
 **Arkadiev, Peter**. Case in head-marking languages: towards a comprehensive typology. Invited talk at the Hermann Paul Colloquium, Albert-Ludwigs-University of Freiburg, 15 December 2023. [pdf](Arkadiev2023_case-n-headmarking-Freiburg.pdf)
 
