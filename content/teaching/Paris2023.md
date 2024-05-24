@@ -18,12 +18,12 @@ The course will deal with the notions of “polysynthesis” and “polysyntheti
 
 ## Materials
 
-Seminar 1: What is polysynthesis? [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture1.pdf)
+Seminar 1: What is polysynthesis? [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture1.pdf) [video](https://www.youtube.com/watch?v=WPqPtXXT47E&t=244s)
 
-Seminar 2: Internal variation and fringes of polysynthesis [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture2.pdf)
+Seminar 2: Internal variation and fringes of polysynthesis [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture2.pdf) [video](https://www.youtube.com/watch?v=-3iOyxnMpao&t=43s)
 
-Seminar 3: Polysynthetic morphology in the Northwest Caucasian languages [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture3.pdf)
+Seminar 3: Polysynthetic morphology in the Northwest Caucasian languages [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture3.pdf) [video](https://www.youtube.com/watch?v=ZUpnDLrtMbs&t=5s)
 
-Seminar 4: Morphology-syntax interface in polysynthetic languages [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture4.pdf)
+Seminar 4: Morphology-syntax interface in polysynthetic languages [pdf](Arkadiev2023_polysynthesisNWC_LabEx_Lecture4.pdf) [video](https://www.youtube.com/watch?v=MXyDxH5lTQ8&t=7s)
 
 References [pdf](Labex_refs.pdf)
