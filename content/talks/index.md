@@ -7,6 +7,10 @@ toc: true
 ## Presentations/handouts of selected recent and not-so-recent talks and lectures
 
 <!--more-->
+**Arkadiev, Peter**. Case in head-marking languages: towards a comprehensive typology. Invited talk at the Linguistisches Kolloquium München, Ludwig-Maximilians-Universität München, 15 May 2024. (Revised and updated version of the talk at Freiburg Colloquium in December 2023) [pdf](Arkadiev2024_case-n-headmarking-LMU.pdf)
+
+**Arkadiev, Peter**. Differential double-marking of objects: Uralic and beyond. Invited talk at the Seminar “Current Topics in Uralic Studies and Linguistic Typology”, Ludwig-Maximilians-Universität München, 13 May 2024. [pdf](Arkadiev2024_doublemarking_LMU.pdf)
+
 **Arkadiev, Peter**. Getting to grips with “linguistic complexity” from a cross-linguistic perspective. Talk at the FRIAS Kolloquium, Freiburg Institute for Advanced Studies, 22 April 2024. [pdf](Arkadiev2024_complexity_FRIAS.pdf)
 
 **Arkadiev, Peter**. Applicative functions of Slavic verbal prefixes from a cross-linguistic perspective. Invited talk at the Verona Slavic Linguistics Webinar, online, 21 March 2024. [pdf](Arkadiev2024_ApplicSlavic_Verona.pdf)
