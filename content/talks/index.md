@@ -7,6 +7,11 @@ toc: true
 ## Presentations/handouts of selected recent and not-so-recent talks and lectures
 
 <!--more-->
+
+**Arkadiev, Peter**. From noun incorporation to lexical affixation in Northwest Caucasian (with focus on Abaza). Talk at the workshop “Lexical affixes” at the 57th Annual Meet-ing of the Societas Linguistica Europaea, Helsinki, 21–24 August 2024. [pdf](Arkadiev2024_Abaza_Incorp_SLE.pdf)
+
+**Arkadiev, Peter**. Towards a typology of passive lability with special reference to Abaza. Presentation at the seminar of the Linguistic Convergence Laboratory, HSE Uni-versity, Moscow (online), 25 June 2024. [pdf](Arkadiev2024_PassLab_ConLab.pdf)
+
 **Arkadiev, Peter**. Case in head-marking languages: towards a comprehensive typology. Invited talk at the Linguistisches Kolloquium München, Ludwig-Maximilians-Universität München, 15 May 2024. (Revised and updated version of the talk at Freiburg Colloquium in December 2023) [pdf](Arkadiev2024_case-n-headmarking-LMU.pdf)
 
 **Arkadiev, Peter**. Differential double-marking of objects: Uralic and beyond. Invited talk at the Seminar “Current Topics in Uralic Studies and Linguistic Typology”, Ludwig-Maximilians-Universität München, 13 May 2024. [pdf](Arkadiev2024_doublemarking_LMU.pdf)
