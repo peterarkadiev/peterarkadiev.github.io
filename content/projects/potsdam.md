@@ -40,3 +40,12 @@ levels of language, and on the mechanisms and pathways of language change.
 
 ## Materials
 
+#A short paper
+**Аркадьев П.М., Ю.А. Ландер. 2020.** Амбификсы и другие звери. // А.А. Кибрик и др. (ред.), *ВАПросы языкознания: Мегасборник наностатей к юбилею В. А. Плунгяна*. Москва: «Буки-Веди», 2020, с. 35–42. [pdf](ArkadievLander2020_AmbifixesFestPlu.pdf)
+
+#Presentations
+**Arkadiev, Peter & Yury Lander.** Towards a typology of ambifixes. Poster presentation at the 5th American International Morphology Meeting, Ohio State University, online, 26–29 August 2021. [pdf](ArkadievLander2021_ambifixes_AIMM.pdf)
+
+**Arkadiev, Peter & Yury Lander.** Ambifixes: Cross-linguistic variation and possible origins. Invited talk at Prince-ton Phonology Forum “The wheres and whens of affixation”, 2–3 December 2022 (online). [pdf](ArkadievLander2022_ambifixes_pphf.pdf)
+
+**Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Invit-ed keynote talk at the 21st International Morphology Meeting, Vienna, 28–30 August 2024. [pdf](Arkadiev2024_ambifixes_IMM.pdf)
