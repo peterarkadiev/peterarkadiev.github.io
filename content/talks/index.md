@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Invit-ed keynote talk at the 21st International Morphology Meeting, Vienna, 28–30 August 2024. [pdf](Arkadiev2024_ambifixes_IMM.pdf)
+
 **Arkadiev, Peter**. From noun incorporation to lexical affixation in Northwest Caucasian (with focus on Abaza). Talk at the workshop “Lexical affixes” at the 57th Annual Meet-ing of the Societas Linguistica Europaea, Helsinki, 21–24 August 2024. [pdf](Arkadiev2024_Abaza_Incorp_SLE.pdf)
 
 **Arkadiev, Peter**. Towards a typology of passive lability with special reference to Abaza. Presentation at the seminar of the Linguistic Convergence Laboratory, HSE Uni-versity, Moscow (online), 25 June 2024. [pdf](Arkadiev2024_PassLab_ConLab.pdf)
