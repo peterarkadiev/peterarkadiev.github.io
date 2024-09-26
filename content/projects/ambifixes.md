@@ -8,7 +8,7 @@ My DFG project at the University of Potsdam (2024-2027).
 
 <!--more-->
 
-![](files/logo-dfg.jpg)
+![](logo-dfg.jpg)
 
 This is a project on the morphological typology of ambifixes (affixes that can occur both as prefixes and as suffixes),
 which I started together with Yury Lander back in 2020 (see Arkadiev & Lander 2020, 2021, 2022 below). I am now able to
