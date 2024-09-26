@@ -8,7 +8,6 @@ My DFG project at the University of Potsdam (2024-2027).
 
 <!--more-->
 
-![](logo-dfg.jpg)
 <img src="logo-dfg.jpg" width="50%">
 
 This is a project on the morphological typology of ambifixes (affixes that can occur both as prefixes and as suffixes),
