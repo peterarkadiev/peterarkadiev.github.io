@@ -1,12 +1,12 @@
 ---
 title: Peter Arkadiev
 draft: false
-role: PhD Hab., External Senior Fellow, FRIAS, Albert-Ludwigs-Universität Freiburg
+role: PhD Hab., External Senior Fellow, CRC "Prominence in Language", Universität zu Köln
 avatar: avatar.jpg
 bio: 
 organization:
   name: Official website
-  url: https://www.frias.uni-freiburg.de/en/people/fellows/current-fellows/arkadiev-peter
+  url: https://www.uni-potsdam.de/de/slavische-linguistik/team/arkadiev
 social:
   - icon: envelope
     iconPack: fas
@@ -55,6 +55,6 @@ In my native language, Russian, my name is Пётр Михайлович Арк�
 
 I was born in Moscow, Russia, in 1982. I studied linguistics at the Russian State University of the Humanities (RSUH) in 1999–2004 and defended my PhD dissertation on the typology of two-term case systems there in 2006. Since 2004, my primary affiliation was the Department of Typology and comparative linguistics of the Institute of Slavic Studies of the Russian Academy of Sciences, where I mainly worked on Baltic languages, especially Lithuanian, from a typological perspective. I defended my habilitation on the areal typology of prefixal perfectivisation in the languages of Europe and the Caucasus there in 2019. Since 2008 I had been lecturer, assistant professor and then full professor at the Centre for Linguistic typology of the Institute of Linguistics of RSUH, where I taught various courses primarily dealing with morphology and typology as well as helped to organize fieldtrips of students to the North Caucasus. Since 2004, I have been deeply involved in the fieldwork-based research on the Northwest Caucasian languages (West Circassian, Kabardian and Abaza) led by a team of scholars from RSUH and the Higher School of Economics. Besides that, I have also worked in international research projects on Baltic and Slavic languages under the auspices of the universities of Vilnius and Mainz. In 2022, I was elected Professor of the Russian Academy of Sciences, and in 2023 Member of the Academia Europaea.
 
-In 2022, being strongly opposed to the Russian invasion of the Ukraine and Putin’s regime in general, I quit my research and teaching positions in Moscow and emigrated to Europe. Since then, I worked at the University of Zürich (July–December 2022) and Johannes Gutenberg-University of Mainz (January–October 2023) as an externally-financed researcher. From November 2023 till August 2024, I am working at the Freiburg Institute for Advanced Studies.
+In 2022, being strongly opposed to the Russian invasion of the Ukraine and Putin’s regime in general, I quit my research and teaching positions in Moscow and emigrated to Europe. Since then, I worked at the University of Zürich (July–December 2022) and Johannes Gutenberg-University of Mainz (January–October 2023) as an externally-financed researcher. From November 2023 till August 2024, I worked as a Marie-Curie senior fellow at the Freiburg Institute for Advanced Studies and from September till November 2024 I am a visiting senior fellow at the [Collaborative Research Centre "Prominence in Language"](https://sfb1252.uni-koeln.de/en/) at the University of Cologne. From the 1st of December 2024 I shall assume a three-years research position at the [Institute of Slavistics](https://www.uni-potsdam.de/de/slavistik/) of the University of Potsdam funded by the German Research Foundation (DFG).
 
 I am married to [Anastasia Panova](https://www.su.se/english/profiles/anpa7559-1.623680), who is a linguist working at the University of Stockholm.
