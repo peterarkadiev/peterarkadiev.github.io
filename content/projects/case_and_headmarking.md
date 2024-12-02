@@ -18,6 +18,10 @@ The project aims at investigating cross-linguistic diversity in the domain of in
 
 ## Materials
 
+**Presentation** Double-marking of prominent objects cross-linguistically: patients, recipients and beyond. Talk at the Linguistischer Arbeitskreis, Cologne Center of Language Sciences, 27 November 2024. [pdf](Arkadiev2024_doublemarking_LAK.pdf)
+
+In many languages of the world prominent (human/animate, definite/specific, topical) non-subject participants receive special marking by means of flagging (case or adpositions), indexing (verbal agreement/cross-reference or clitic-doubling), or both, i.e. double-marking. I investigate the distribution of double-marking of objects cross-linguistically and the factors that favour it on the basis of a representative sample of languages. In my talk I focus on the semantic (macro)roles that are subject to double-marking and their interplay with prominence hierarchies. My first case-study explores the considerable typological variation of double-marking patterns in monotransitive and ditransitive constructions and shows how the observed asymmetries in this domain are motivated by prominence-related diachronic trends. My second case-study focuses on the virtually unexplored phenomenon of double-marking of peripheral semantic roles instantiated through indexing of oblique objects. I show that this phenomenon, even if infrequent cross-linguistically, is robustly attested world-wide and is again functionally and diachronically related to referential and discourse prominence.
+
 **Presentation** Case in head-marking languages: towards a comprehensive typology. Invited talk at the Linguistisches Kolloquium München, Ludwig-Maximilians-Universität München, 15 May 2024. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2024_case-n-headmarking-LMU.pdf)
 
 This is the updated and revised version of talk I gave at the Freiburg Linguistics Colloquium in December 2015. 
