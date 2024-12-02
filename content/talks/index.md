@@ -8,7 +8,9 @@ toc: true
 
 <!--more-->
 
-**Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Invit-ed keynote talk at the 21st International Morphology Meeting, Vienna, 28–30 August 2024. [pdf](Arkadiev2024_ambifixes_IMM.pdf)
+**Arkadiev, Peter**. Double-marking of prominent objects cross-linguistically: patients, recipients and beyond. Talk at the Linguistischer Arbeitskreis, Cologne Center of Language Sciences, 27 November 2024. [pdf](Arkadiev2024_doublemarking_LAK.pdf)
+
+**Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Invited keynote talk at the 21st International Morphology Meeting, Vienna, 28–30 August 2024. [pdf](Arkadiev2024_ambifixes_IMM.pdf)
 
 **Arkadiev, Peter**. From noun incorporation to lexical affixation in Northwest Caucasian (with focus on Abaza). Talk at the workshop “Lexical affixes” at the 57th Annual Meet-ing of the Societas Linguistica Europaea, Helsinki, 21–24 August 2024. [pdf](Arkadiev2024_Abaza_Incorp_SLE.pdf)
 
