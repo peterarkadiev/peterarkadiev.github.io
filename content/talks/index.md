@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Talk at the Kolloquium Slavische Linguistik, University of Potsdam, 4 December 2024. [pdf](Arkadiev2024_ambifixes_Potsdam.pdf)
+
 **Arkadiev, Peter**. Double-marking of prominent objects cross-linguistically: patients, recipients and beyond. Talk at the Linguistischer Arbeitskreis, Cologne Center of Language Sciences, 27 November 2024. [pdf](Arkadiev2024_doublemarking_LAK.pdf)
 
 **Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Invited keynote talk at the 21st International Morphology Meeting, Vienna, 28–30 August 2024. [pdf](Arkadiev2024_ambifixes_IMM.pdf)
