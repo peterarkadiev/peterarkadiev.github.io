@@ -57,4 +57,6 @@ I was born in Moscow, Russia, in 1982. I studied linguistics at the Russian Stat
 
 In 2022, being strongly opposed to the Russian invasion of the Ukraine and Putin’s regime in general, I quit my research and teaching positions in Moscow and emigrated to Europe. Since then, I worked at the University of Zürich (July–December 2022) and Johannes Gutenberg-University of Mainz (January–October 2023) as an externally-financed researcher. From November 2023 till August 2024, I worked as a Marie-Curie senior fellow at the [Freiburg Institute for Advanced Studies](https://www.frias.uni-freiburg.de/en/home) and from September till November 2024 I was a visiting senior fellow at the [Collaborative Research Centre "Prominence in Language"](https://sfb1252.uni-koeln.de/en/) at the University of Cologne. On the 1st of December 2024 I assumed a three-years research position at the [Institute of Slavistics](https://www.uni-potsdam.de/de/slavistik/) of the University of Potsdam funded by the German Research Foundation (DFG).
 
+In 2025, I joined the team of editors of the international peer-reviewed journal [*Word Structure*](https://www.euppublishing.com/loi/word) devoted to morphology and related fields.
+
 I am married to [Anastasia Panova](https://www.su.se/english/profiles/anpa7559-1.623680), who is a linguist working at the University of Stockholm.
