@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Are there complex predicates formed by reduplication? Evidence from Circassian languages. Talk at the workshop “Verbal complex predicates in a theoretical and cross-linguistic perspective”, 47th congress of the Deutsche Gesellschaft für Sprachwissenschaft, Mainz, 4–7 March 2025.
+
 **Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Talk at the Kolloquium Slavische Linguistik, University of Potsdam, 4 December 2024. [pdf](Arkadiev2024_ambifixes_Potsdam.pdf)
 
 **Arkadiev, Peter**. Double-marking of prominent objects cross-linguistically: patients, recipients and beyond. Talk at the Linguistischer Arbeitskreis, Cologne Center of Language Sciences, 27 November 2024. [pdf](Arkadiev2024_doublemarking_LAK.pdf)
