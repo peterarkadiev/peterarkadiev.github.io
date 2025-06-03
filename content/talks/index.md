@@ -8,7 +8,13 @@ toc: true
 
 <!--more-->
 
-**Arkadiev, Peter**. Are there complex predicates formed by reduplication? Evidence from Circassian languages. Talk at the workshop “Verbal complex predicates in a theoretical and cross-linguistic perspective”, 47th congress of the Deutsche Gesellschaft für Sprachwissenschaft, Mainz, 4–7 March 2025.
+**Arkadiev, Peter**. Multiple exponence in the Northwest Caucasian languages. Talk at the conference "Caucasian Linguistics: Recent Advances and Emerging Topics", Lyon, June 11-13 2025. [pdf](Arkadiev2025_multexpNWC_Lyon.pdf)
+
+**Arkadiev, Peter**. Tracing the avertive through semantic space: Evidence from Lithuanian. Invited keynote talk at the workshop “Avertives in the languages of Europe”, University of Helsinki, 22–23 May 2025. [pdf](Arkadiev2025_LithAvert_Helsinki.pdf)
+
+**Arkadiev, Peter**. Complex predicates as source constructions for non-canonical affixation. Talk at the Final conference of the ComPLETE project, Sorbonne Nouvelle & École normale supérieure, Paris, 12-14 May 2025. [pdf](Arkadiev2025_VCPaffixation_Paris.pdf)
+
+**Arkadiev, Peter**. Are there complex predicates formed by reduplication? Evidence from Circassian languages. Talk at the workshop “Verbal complex predicates in a theoretical and cross-linguistic perspective”, 47th congress of the Deutsche Gesellschaft für Sprachwissenschaft, Mainz, 4–7 March 2025. [pdf](Arkadiev2025_VCPreduplication_DGfS.pdf)
 
 **Arkadiev, Peter**. Typology and diachrony of ambifixes: some preliminary observations. Talk at the Kolloquium Slavische Linguistik, University of Potsdam, 4 December 2024. [pdf](Arkadiev2024_ambifixes_Potsdam.pdf)
 
