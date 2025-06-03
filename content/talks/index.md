@@ -8,7 +8,7 @@ toc: true
 
 <!--more-->
 
-**Arkadiev, Peter**. Multiple exponence in the Northwest Caucasian languages. Talk at the conference "Caucasian Linguistics: Recent Advances and Emerging Topics", Lyon, June 11-13 2025. [pdf](Arkadiev2025_multexpNWC_Lyon.pdf)
+**Arkadiev, Peter**. Multiple exponence in the Northwest Caucasian languages. Talk at the conference "Caucasian Linguistics: Recent Advances and Emerging Topics", Lyon, June 11-13 2025. [pdf](Arkadiev2025_multexpNWC_Lyon.pdf)
 
 **Arkadiev, Peter**. Tracing the avertive through semantic space: Evidence from Lithuanian. Invited keynote talk at the workshop “Avertives in the languages of Europe”, University of Helsinki, 22–23 May 2025. [pdf](Arkadiev2025_LithAvert_Helsinki.pdf)
 
