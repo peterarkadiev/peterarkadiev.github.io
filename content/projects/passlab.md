@@ -8,7 +8,7 @@ A small typological project on passive lability (a.k.a. uncoded passive alternat
 
 <!--more-->
 
-This is a small+ project dealing with the typology of morphologically uncoded passive alternations or passive lability.
+This is a small project dealing with the typology of morphologically uncoded passive alternations or passive lability.
 It originates from my work on the Northwest Caucasian languages, in particular, on Abaza, and has started from a short paper 
 I wrote in 2023 for the volume in memory of my friend Sasha Vydrina, who has published on this topic in Kakabe, a language 
 of the Mande family in West Africa. Passive lability is widespread in the Mande languages 
