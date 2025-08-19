@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Towards a typology of passive lability. Talk at the Workshop “Transitivity and labile verbs in typological and diachronic perspectives” at the 58th Annual meeting of the Societas Linguistica Europaea, Bordeaux, 26-29 August 2025. [pdf](Arkadiev2025_PassLab_SLE.pdf)
+
 **Arkadiev, Peter**. Northwest Caucasian applicatives beyond the argument-adjunct division. Invited keynote talk at the workshop “Applicative Alternations across Languages: Argument/oblique alternations and variation“, Humboldt-Universität Berlin, June 26-28 2025. [pdf](Arkadiev2025_NWC_applicatives_Berlin.pdf)
 
 **Arkadiev, Peter**. Multiple exponence in the Northwest Caucasian languages. Talk at the conference "Caucasian Linguistics: Recent Advances and Emerging Topics", Lyon, June 11-13 2025. [pdf](Arkadiev2025_multexpNWC_Lyon.pdf)
