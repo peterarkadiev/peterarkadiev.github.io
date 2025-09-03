@@ -49,3 +49,5 @@ levels of language, and on the mechanisms and pathways of language change.
 **Arkadiev, Peter & Yury Lander. 2022.** Ambifixes: Cross-linguistic variation and possible origins. Invited talk at Princeton Phonology Forum “The wheres and whens of affixation”, 2–3 December 2022 (online). [pdf](ArkadievLander2022_ambifixes_pphf.pdf)
 
 **Arkadiev, Peter. 2024.** Typology and diachrony of ambifixes: some preliminary observations. Invited keynote talk at the 21st International Morphology Meeting, Vienna, 28–30 August 2024. [pdf](Arkadiev2024_ambifixes_IMM.pdf)
+
+**Arkadiev, Peter. 2025.** Complex predicates as source constructions for non-canonical affixation. Talk at the Final conference of the ComPLETE project, Sorbonne Nouvelle & École normale supérieure, Paris, 12-14 May 2025. [pdf](Arkadiev2025_VCPaffixation_Paris.pdf)
