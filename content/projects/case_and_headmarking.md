@@ -18,6 +18,18 @@ The project aims at investigating cross-linguistic diversity in the domain of in
 
 ## Materials
 
+**Presentation** Indexing of oblique participants: A preliminary typology. Talk at "Syntax of the World’s Languages X", University of Potsdam, 8-11 September 2025. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2025_oblqueindexing_SWL.pdf)
+
+It is commonly assumed that indexing (a.k.a. head-marking) preferentially applies to core grammatical roles 
+(S of intransitive verbs, A and P of monotransitive verbs), also in many languages 
+extending to the recipient (R) of ditransitive verbs. It is thus unsurprising that indexing of other 
+participants, i.e. oblique objects and optional adjuncts, has so far almost 
+completely evaded the attention of typologists. On the basis of a non-stratified 
+convenience sample of more than 180 languages featuring indexing of at least 
+two participants, I offer a preliminary typology of indexing of obliques, which I 
+define as participants expressing roles other than, and overtly flagged distinctly 
+from S, A, P, R, T.
+
 **Presentation** Double-marking of prominent objects cross-linguistically: patients, recipients and beyond. Talk at the Linguistischer Arbeitskreis, Cologne Center of Language Sciences, 27 November 2024. [pdf](Arkadiev2024_doublemarking_LAK.pdf)
 
 In many languages of the world prominent (human/animate, definite/specific, topical) non-subject participants receive special marking by means of flagging (case or adpositions), indexing (verbal agreement/cross-reference or clitic-doubling), or both, i.e. double-marking. I investigate the distribution of double-marking of objects cross-linguistically and the factors that favour it on the basis of a representative sample of languages. In my talk I focus on the semantic (macro)roles that are subject to double-marking and their interplay with prominence hierarchies. My first case-study explores the considerable typological variation of double-marking patterns in monotransitive and ditransitive constructions and shows how the observed asymmetries in this domain are motivated by prominence-related diachronic trends. My second case-study focuses on the virtually unexplored phenomenon of double-marking of peripheral semantic roles instantiated through indexing of oblique objects. I show that this phenomenon, even if infrequent cross-linguistically, is robustly attested world-wide and is again functionally and diachronically related to referential and discourse prominence.
