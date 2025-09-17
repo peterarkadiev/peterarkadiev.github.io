@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Morphological borrowing from, into and within Slavic. Invited keynote talk at the conference "Formal Description of Slavic Languages 18", University of Wrocław, 22–24 September 2025. [pdf](Arkadiev2025_morphborrowing_FDSL.pdf)
+
 **Arkadiev, Peter**. Indexing of oblique participants: A preliminary typology. Talk at "Syntax of the World’s Languages X", University of Potsdam, 8-11 September 2025. [pdf](Arkadiev2025_oblqueindexing_SWL.pdf)
 
 **Arkadiev, Peter**. Towards a typology of passive lability. Talk at the Workshop “Transitivity and labile verbs in typological and diachronic perspectives” at the 58th Annual meeting of the Societas Linguistica Europaea, Bordeaux, 26-29 August 2025. [pdf](Arkadiev2025_PassLab_SLE.pdf)
