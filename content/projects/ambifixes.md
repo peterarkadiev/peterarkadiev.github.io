@@ -42,12 +42,15 @@ levels of language, and on the mechanisms and pathways of language change.
 
 ## Materials
 
-**Аркадьев П.М., Ю.А. Ландер. 2020.** Амбификсы и другие звери. // А.А. Кибрик и др. (ред.), *ВАПросы языкознания: Мегасборник наностатей к юбилею В. А. Плунгяна*. Москва: «Буки-Веди», 2020, с. 35–42. [pdf](ArkadievLander2020_AmbifixesFestPlu.pdf)
+**Arkadiev, Peter. 2025.** Towards a typology and diachrony of ambifixation. Invited talk at the Uppsala Typology Seminar, University of Uppsala, 7. October 2025. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2025_ambifixes_Uppsala.pdf)
 
-**Arkadiev, Peter & Yury Lander. 2021.** Towards a typology of ambifixes. Poster presentation at the 5th American International Morphology Meeting, Ohio State University, online, 26–29 August 2021. [pdf](ArkadievLander2021_ambifixes_AIMM.pdf)
-
-**Arkadiev, Peter & Yury Lander. 2022.** Ambifixes: Cross-linguistic variation and possible origins. Invited talk at Princeton Phonology Forum “The wheres and whens of affixation”, 2–3 December 2022 (online). [pdf](ArkadievLander2022_ambifixes_pphf.pdf)
+**Arkadiev, Peter. 2025.** Complex predicates as source constructions for non-canonical affixation. Talk at the Final conference of the ComPLETE project, Sorbonne Nouvelle & École normale supérieure, Paris, 12-14 May 2025. [pdf](Arkadiev2025_VCPaffixation_Paris.pdf)
 
 **Arkadiev, Peter. 2024.** Typology and diachrony of ambifixes: some preliminary observations. Invited keynote talk at the 21st International Morphology Meeting, Vienna, 28–30 August 2024. [pdf](Arkadiev2024_ambifixes_IMM.pdf)
 
-**Arkadiev, Peter. 2025.** Complex predicates as source constructions for non-canonical affixation. Talk at the Final conference of the ComPLETE project, Sorbonne Nouvelle & École normale supérieure, Paris, 12-14 May 2025. [pdf](Arkadiev2025_VCPaffixation_Paris.pdf)
+**Arkadiev, Peter & Yury Lander. 2022.** Ambifixes: Cross-linguistic variation and possible origins. Invited talk at Princeton Phonology Forum “The wheres and whens of affixation”, 2–3 December 2022 (online). [pdf](ArkadievLander2022_ambifixes_pphf.pdf)
+
+**Arkadiev, Peter & Yury Lander. 2021.** Towards a typology of ambifixes. Poster presentation at the 5th American International Morphology Meeting, Ohio State University, online, 26–29 August 2021. [pdf](ArkadievLander2021_ambifixes_AIMM.pdf)
+
+**Аркадьев П.М., Ю.А. Ландер. 2020.** Амбификсы и другие звери. // А.А. Кибрик и др. (ред.), *ВАПросы языкознания: Мегасборник наностатей к юбилею В. А. Плунгяна*. Москва: «Буки-Веди», 2020, с. 35–42. [pdf](ArkadievLander2020_AmbifixesFestPlu.pdf)
+
