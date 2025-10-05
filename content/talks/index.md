@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Towards a typology and diachrony of ambifixation. Invited talk at the Uppsala Typology Seminar, University of Uppsala, 7. October 2025. [pdf](Arkadiev2025_ambifixes_Uppsala.pdf)
+
 **Arkadiev, Peter**. Morphological borrowing from, into and within Slavic. Invited keynote talk at the conference "Formal Description of Slavic Languages 18", University of Wrocław, 22–24 September 2025. [pdf](Arkadiev2025_morphborrowing_FDSL.pdf)
 
 **Arkadiev, Peter**. Indexing of oblique participants: A preliminary typology. Talk at "Syntax of the World’s Languages X", University of Potsdam, 8-11 September 2025. [pdf](Arkadiev2025_oblqueindexing_SWL.pdf)
