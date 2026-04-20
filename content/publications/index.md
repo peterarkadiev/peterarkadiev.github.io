@@ -16,7 +16,7 @@ Most of my publications as well as unpublished manuscripts can be downloaded fro
 
 ## Selected recent papers ##
 
-**Arkadiev, Peter & Franz Rainer (to appear). Introduction. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. March 2026. [pdf](ArkadievRainer2026_Introduction_OHHM.pdf)
+**Arkadiev, Peter & Franz Rainer (to appear)**. Introduction. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. March 2026. [pdf](ArkadievRainer2026_Introduction_OHHM.pdf)
 
 **Arkadiev, Peter (to appear)**. The development of inflectional features. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. Revised version, August 16, 2023. [pdf](Arkadiev_OHHM_inflection.pdf)
 
