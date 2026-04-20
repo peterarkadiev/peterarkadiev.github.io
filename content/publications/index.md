@@ -4,7 +4,7 @@ toc: true
 
 ---
 
-The full list of my publications as of April 2024 is available [here](Arkadiev_publications_eng.pdf).
+The full list of my publications as of April 2026 is available [here](Arkadiev_publications_eng.pdf).
 
 Most of my publications as well as unpublished manuscripts can be downloaded from my [academia.edu page](https://uni-freiburg.academia.edu/PeterArkadiev).
 
