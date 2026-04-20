@@ -16,9 +16,19 @@ Most of my publications as well as unpublished manuscripts can be downloaded fro
 
 ## Selected recent papers ##
 
-**Arkadiev, Peter (submitted)**. The development of inflectional features. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. Revised version, August 16, 2023. [pdf](Arkadiev_OHHM_inflection.pdf)
+**Arkadiev, Peter & Franz Rainer (to appear). Introduction. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. March 2026. [pdf](ArkadievRainer2026_Introduction_OHHM.pdf)
+
+**Arkadiev, Peter (to appear)**. The development of inflectional features. To appear in: Peter Arkadiev & Franz Rainer (eds.), *The Oxford Handbook of Historical Morphology*. Revised version, August 16, 2023. [pdf](Arkadiev_OHHM_inflection.pdf)
+
+**Arkadiev, Peter (to appear)**. Verbal complex predicates in Circassian languages. To appear in Walter Bisang, Alexandre François, Andrey Malchukov and Martine Vanhove (eds.), *Verbal Complex Predicates: a Comparative Handbook*. Forthcoming in De Gruyter Mouton. Revised version, October 2024. [pdf](Arkadiev_CircassianComplexPreds_rev2_clean.pdf)
 
 **Arkadiev, Peter (submitted)**. Abaza. A grammatical sketch. Submitted to Yuri Koryakov, Yury Lander & Timur Maisak (eds.), *The Caucasian Languages. An International Handbook*. De Gruyter Mouton. Revised version of June 2020. [pdf](Arkadiev2020_Abaza_sketch.pdf)
+
+**Björn Wiemer & Peter Arkadiev (2025)**. Convergence and divergence in the eastern Circum-Baltic Area: A triangulation ap-proach – Introductory chapter. In: Björn Wiemer, Peter Arkadiev, Rogier Blokland & Petar Kehayov (eds.), *Convergence and Divergence in the Eastern Circum-Baltic Area. Vol. 1: The Northern Part. A Synthetic View, Especially on Finnic, and Case Studies*. Berlin, Boston: De Gruyter Mouton, 2025, pp. 1–67. https://doi.org/10.1515/9783111165677-001
+
+**Arkadiev, Peter & Kirill Kozhanov (2025)**. Object partitive of negation: An areal perspective. In: Björn Wiemer, Peter Arkadiev, Rogier Blokland & Petar Kehayov (eds.), *Convergence and Divergence in the Eastern Circum-Baltic Area. Vol. 1: The Northern Part. A Synthetic View, Especially on Finnic, and Case Studies*. Berlin, Boston: De Gruyter Mouton, 2025, pp. 513–569. https://doi.org/10.1515/9783111165677-007
+
+**Arkadiev, Peter (2025)**. From derivation to inflection and back: Variation and change in the Abaza caritive morphology. In: Sara Matrisciano-Mayerhofer, Johannes Schnitzer & Elisabeth Peters (eds.), *Patterns, variants and change: Through the prism of morphology. Studies in honor of Franz Rainer*. (Travaux de Linguistique Romane. Morphologie, syntaxe, grammaticographie 5.) Strasbourg: Éditions de linguistique et de philologie, 2025, pp. 307–320. [pdf](Arkadiev2025_AbazaCaritiveFestRainer.pdf)
 
 **Arkadiev, Peter, Yury Lander & Irina Bagirokova (2024)**. Applicative constructions in the Northwest Caucasian languages. In: Fernando Zúñiga & Denis Creissels (eds.), *Applicative Constructions in the World’s Languages*. (Comparative Handbooks in Linguistics 7.) Berlin, Boston: De Gruyter Mouton, 2024, pp. 869–912.  [pdf](Arkadiev-etal2024_NWCApplicatives.pdf)
 
