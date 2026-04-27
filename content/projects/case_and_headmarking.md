@@ -18,6 +18,8 @@ The project aims at investigating cross-linguistic diversity in the domain of in
 
 ## Materials
 
+**Presentation** Prominence hierarchies and indexing of oblique participants. Talk at the 4th International Conference “Prominence in Language”, Cologne, 23-24 April 2026. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2026_oblqueindexing_ICPL.pdf)
+
 **Presentation** Indexing of oblique participants: A preliminary typology. Talk at "Syntax of the World’s Languages X", University of Potsdam, 8-11 September 2025. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2025_oblqueindexing_SWL.pdf)
 
 It is commonly assumed that indexing (a.k.a. head-marking) preferentially applies to core grammatical roles 
@@ -28,7 +30,8 @@ completely evaded the attention of typologists. On the basis of a non-stratified
 convenience sample of more than 180 languages featuring indexing of at least 
 two participants, I offer a preliminary typology of indexing of obliques, which I 
 define as participants expressing roles other than, and overtly flagged distinctly 
-from S, A, P, R, T.
+from S, A, P, R, T. In particular, I show that this phenomenon is constrained by the familiar prominence hierarchies of person,
+animacy, definiteness and topicality.
 
 **Presentation** Double-marking of prominent objects cross-linguistically: patients, recipients and beyond. Talk at the Linguistischer Arbeitskreis, Cologne Center of Language Sciences, 27 November 2024. [pdf](Arkadiev2024_doublemarking_LAK.pdf)
 
