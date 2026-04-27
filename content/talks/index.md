@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Prominence hierarchies and indexing of oblique participants. Talk at the 4th International Conference “Prominence in Language”, Cologne, 23-24 April 2026. [pdf](Arkadiev2026_oblqueindexing_ICPL.pdf)
+
 **Arkadiev, Peter**. Towards a typology and diachrony of ambifixation. Invited talk at the Uppsala Typology Seminar, University of Uppsala, 7. October 2025. [pdf](Arkadiev2025_ambifixes_Uppsala.pdf)
 
 **Arkadiev, Peter**. Morphological borrowing from, into and within Slavic. Invited keynote talk at the conference "Formal Description of Slavic Languages 18", University of Wrocław, 22–24 September 2025. [pdf](Arkadiev2025_morphborrowing_FDSL.pdf)
