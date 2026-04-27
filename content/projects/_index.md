@@ -1,7 +1,0 @@
----
-title: Projects
-toc: true
-
----
-
-

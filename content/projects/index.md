@@ -4,7 +4,4 @@ toc: true
 
 ---
 
-## Under construction.
-
-<!--more-->
 
