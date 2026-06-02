@@ -35,3 +35,6 @@ its distribution across genealogical groupings and areas as well as its cross-li
 
 **Arkadiev, Peter**. 2025. Towards a typology of passive lability. Talk at the Workshop “Transitivity and labile verbs in typological and diachronic perspectives” at the *58th Annual meeting of the Societas Linguistica Europaea*, Bordeaux, 26-29 August 2025. [pdf](Arkadiev2025_PassLab_SLE.pdf)
 
+**Arkadiev, Peter**. 2026. Towards a typology of passive lability. Submitted to the volume on transitivity and labile verbs edited by Tim Ongenae, Leonid Kulikov and Daria Chistyakova. Ms., May 2026. [pdf](Arkadiev2026_passlab_draft.pdf)
++ [Online supplementary materials](https://github.com/peterarkadiev/Passive-lability): Language sample and sources (to be updated).
+
