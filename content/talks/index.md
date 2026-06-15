@@ -8,6 +8,8 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Towards a diachronic typology of ambifixation. Talk at the 22nd International Morphology Meeting, Budapest, 18-21 June 2026. [pdf](Arkadiev2026_diachrony_ambifixes_IMM.pdf)
+
 **Arkadiev, Peter**. Prominence hierarchies and indexing of oblique participants. Talk at the 4th International Conference “Prominence in Language”, Cologne, 23-24 April 2026. [pdf](Arkadiev2026_oblqueindexing_ICPL.pdf)
 
 **Arkadiev, Peter**. Towards a typology and diachrony of ambifixation. Invited talk at the Uppsala Typology Seminar, University of Uppsala, 7. October 2025. [pdf](Arkadiev2025_ambifixes_Uppsala.pdf)
