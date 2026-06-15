@@ -42,6 +42,8 @@ levels of language, and on the mechanisms and pathways of language change.
 
 ## Materials
 
+**Arkadiev, Peter**. Towards a diachronic typology of ambifixation. Talk at the 22nd International Morphology Meeting, Budapest, 18-21 June 2026. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2026_diachrony_ambifixes_IMM.pdf)
+
 **Arkadiev, Peter. 2025.** Towards a typology and diachrony of ambifixation. Invited talk at the Uppsala Typology Seminar, University of Uppsala, 7. October 2025. [pdf](https://peterarkadiev.github.io/talks/Arkadiev2025_ambifixes_Uppsala.pdf)
 
 **Arkadiev, Peter. 2025.** Complex predicates as source constructions for non-canonical affixation. Talk at the Final conference of the ComPLETE project, Sorbonne Nouvelle & École normale supérieure, Paris, 12-14 May 2025. [pdf](Arkadiev2025_VCPaffixation_Paris.pdf)
