@@ -44,5 +44,6 @@ build:
   useResourceCacheWhen: always
 
 module:
-  replacements:
-    "wangchucheng.com/hugo-marble/utils -> hugo-marble/utils": ""
+  imports:
+    - path: "eureka"
+    - path: "hugo-marble/utils"
