@@ -44,7 +44,5 @@ build:
   useResourceCacheWhen: always
 
 module:
-  imports:
-    - path: "wangchucheng.com/hugo-marble/utils"
-      disabled: false
-      path: "hugo-marble"
+  replacements:
+    "wangchucheng.com/hugo-marble/utils -> hugo-marble/utils": ""
