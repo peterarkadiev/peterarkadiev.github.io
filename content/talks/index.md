@@ -8,6 +8,10 @@ toc: true
 
 <!--more-->
 
+**Arkadiev, Peter**. Advancing the typology of polygrammaticalisation: Prefixes and suffixes from the same source. Talk at the *Transalpine Typology Meeting*, Ludwig-Maximilians-Universität München, 26-28 November 2026. [pdf](Arkadiev2026_polygrammaticalisationTTM.pdf)
+
+**Arkadiev, Peter**. Conditions on ambifixation. Invited talk at the seminar of the Meaning and Grammar Research Group, University of Edinburgh, 27 October 2026. [pdf](https://peterarkadiev.github.io/projects/ambifixes/Arkadiev2026_ambifixes_Edinburgh.pdf)
+
 **Arkadiev, Peter**. Towards a typology of ambifixes. Talk at the 59th annual meeting of the Societas Linguistica Europaea, Osnabrück, 26–29 August 2026. [pdf](Arkadiev2026_ambifixes_SLE.pdf)
 
 **Arkadiev, Peter**. Towards a diachronic typology of ambifixation. Talk at the 22nd International Morphology Meeting, Budapest, 18-21 June 2026. [pdf](Arkadiev2026_diachrony_ambifixes_IMM.pdf)
